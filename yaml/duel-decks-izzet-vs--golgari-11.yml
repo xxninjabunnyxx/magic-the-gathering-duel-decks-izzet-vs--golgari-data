@@ -1,0 +1,117 @@
+---
+object: card
+id: b28334ba-645f-46f2-98b6-0c57fac02ad4
+oracle_id: 1da438f3-db1c-4713-a60c-e078f31d809c
+multiverse_ids:
+- 292734
+mtgo_id: 46113
+mtgo_foil_id: 46114
+tcgplayer_id: 66320
+cardmarket_id: 258115
+name: Izzet Chronarch
+lang: en
+released_at: '2012-09-07'
+uri: https://api.scryfall.com/cards/b28334ba-645f-46f2-98b6-0c57fac02ad4
+scryfall_uri: https://scryfall.com/card/ddj/11/izzet-chronarch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/2/b28334ba-645f-46f2-98b6-0c57fac02ad4.jpg?1592713345
+  normal: https://cards.scryfall.io/normal/front/b/2/b28334ba-645f-46f2-98b6-0c57fac02ad4.jpg?1592713345
+  large: https://cards.scryfall.io/large/front/b/2/b28334ba-645f-46f2-98b6-0c57fac02ad4.jpg?1592713345
+  png: https://cards.scryfall.io/png/front/b/2/b28334ba-645f-46f2-98b6-0c57fac02ad4.png?1592713345
+  art_crop: https://cards.scryfall.io/art_crop/front/b/2/b28334ba-645f-46f2-98b6-0c57fac02ad4.jpg?1592713345
+  border_crop: https://cards.scryfall.io/border_crop/front/b/2/b28334ba-645f-46f2-98b6-0c57fac02ad4.jpg?1592713345
+mana_cost: "{3}{U}{R}"
+cmc: 5.0
+type_line: Creature — Human Wizard
+oracle_text: When Izzet Chronarch enters the battlefield, return target instant or
+  sorcery card from your graveyard to your hand.
+power: '2'
+toughness: '2'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set: ddj
+set_name: 'Duel Decks: Izzet vs. Golgari'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b28334ba-645f-46f2-98b6-0c57fac02ad4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1da438f3-db1c-4713-a60c-e078f31d809c&unique=prints
+collector_number: '11'
+digital: false
+rarity: common
+watermark: izzet
+flavor_text: He ensures not only whether but also when and where the lightning strikes
+  twice.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 848b7a75-cb24-499e-ba47-e533cd51dd34
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10785
+penny_rank: 3348
+prices:
+  usd: '0.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: 
+  tix: '0.30'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292734
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Izzet+Chronarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Izzet+Chronarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Izzet+Chronarch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66320?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Izzet+Chronarch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46113?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,116 @@
+---
+object: card
+id: 357741eb-40bc-487e-a502-7362104bbf86
+oracle_id: 056770e2-8ab7-424d-a2d8-7be6d6cc73f1
+multiverse_ids:
+- 338403
+mtgo_id: 46087
+mtgo_foil_id: 46088
+tcgplayer_id: 66363
+cardmarket_id: 258165
+name: Stingerfling Spider
+lang: en
+released_at: '2012-09-07'
+uri: https://api.scryfall.com/cards/357741eb-40bc-487e-a502-7362104bbf86
+scryfall_uri: https://scryfall.com/card/ddj/61/stingerfling-spider?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/5/357741eb-40bc-487e-a502-7362104bbf86.jpg?1592713711
+  normal: https://cards.scryfall.io/normal/front/3/5/357741eb-40bc-487e-a502-7362104bbf86.jpg?1592713711
+  large: https://cards.scryfall.io/large/front/3/5/357741eb-40bc-487e-a502-7362104bbf86.jpg?1592713711
+  png: https://cards.scryfall.io/png/front/3/5/357741eb-40bc-487e-a502-7362104bbf86.png?1592713711
+  art_crop: https://cards.scryfall.io/art_crop/front/3/5/357741eb-40bc-487e-a502-7362104bbf86.jpg?1592713711
+  border_crop: https://cards.scryfall.io/border_crop/front/3/5/357741eb-40bc-487e-a502-7362104bbf86.jpg?1592713711
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Creature — Spider
+oracle_text: |-
+  Reach
+  When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.
+power: '2'
+toughness: '5'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set: ddj
+set_name: 'Duel Decks: Izzet vs. Golgari'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/357741eb-40bc-487e-a502-7362104bbf86/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A056770e2-8ab7-424d-a2d8-7be6d6cc73f1&unique=prints
+collector_number: '61'
+digital: false
+rarity: uncommon
+flavor_text: The juiciest prey is that which grows lazy, thinking itself beyond the
+  reach of danger.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Allsop
+artist_ids:
+- 99b8310a-4fd6-4ded-8ab7-3b5185821cbe
+illustration_id: 38a4bf9a-08f9-4332-9f3b-9889461d6dc6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10252
+penny_rank: 13772
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.23'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338403
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stingerfling+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stingerfling+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stingerfling+Spider
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66363?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stingerfling+Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46087?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

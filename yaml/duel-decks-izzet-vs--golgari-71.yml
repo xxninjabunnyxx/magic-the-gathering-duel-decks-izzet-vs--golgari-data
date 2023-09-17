@@ -1,0 +1,115 @@
+---
+object: card
+id: 2c0aca3e-d91d-4bb7-ba4a-500d93f71718
+oracle_id: 9b271430-f53d-42d6-a547-2f286dd9bcb6
+multiverse_ids:
+- 292956
+mtgo_id: 46121
+mtgo_foil_id: 46122
+tcgplayer_id: 66373
+cardmarket_id: 258175
+name: Putrefy
+lang: en
+released_at: '2012-09-07'
+uri: https://api.scryfall.com/cards/2c0aca3e-d91d-4bb7-ba4a-500d93f71718
+scryfall_uri: https://scryfall.com/card/ddj/71/putrefy?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/c/2c0aca3e-d91d-4bb7-ba4a-500d93f71718.jpg?1592713790
+  normal: https://cards.scryfall.io/normal/front/2/c/2c0aca3e-d91d-4bb7-ba4a-500d93f71718.jpg?1592713790
+  large: https://cards.scryfall.io/large/front/2/c/2c0aca3e-d91d-4bb7-ba4a-500d93f71718.jpg?1592713790
+  png: https://cards.scryfall.io/png/front/2/c/2c0aca3e-d91d-4bb7-ba4a-500d93f71718.png?1592713790
+  art_crop: https://cards.scryfall.io/art_crop/front/2/c/2c0aca3e-d91d-4bb7-ba4a-500d93f71718.jpg?1592713790
+  border_crop: https://cards.scryfall.io/border_crop/front/2/c/2c0aca3e-d91d-4bb7-ba4a-500d93f71718.jpg?1592713790
+mana_cost: "{1}{B}{G}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Destroy target artifact or creature. It can't be regenerated.
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set: ddj
+set_name: 'Duel Decks: Izzet vs. Golgari'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2c0aca3e-d91d-4bb7-ba4a-500d93f71718/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b271430-f53d-42d6-a547-2f286dd9bcb6&unique=prints
+collector_number: '71'
+digital: false
+rarity: uncommon
+watermark: golgari
+flavor_text: |-
+  "All matter, animate or not, rots when exposed to time. We merely speed up the process."
+  —Ezoc, Golgari rot farmer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Clint Cearley
+artist_ids:
+- 03b75350-d5a0-4e3a-b3b4-8d4a5554385b
+illustration_id: 72df1c02-aafe-4c3e-a92e-5c39c7de0bc2
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 293
+penny_rank: 743
+prices:
+  usd: '0.27'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292956
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Putrefy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Putrefy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Putrefy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66373?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Putrefy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46121?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,117 @@
+---
+object: card
+id: f6a2f10c-721c-40c7-8fe1-b4877a40fe96
+oracle_id: 87e65e36-9483-49fe-b644-2caca092107f
+multiverse_ids:
+- 292771
+mtgo_id: 46125
+mtgo_foil_id: 46126
+tcgplayer_id: 66307
+cardmarket_id: 257388
+name: Jarad, Golgari Lich Lord
+lang: en
+released_at: '2012-09-07'
+uri: https://api.scryfall.com/cards/f6a2f10c-721c-40c7-8fe1-b4877a40fe96
+scryfall_uri: https://scryfall.com/card/ddj/45/jarad-golgari-lich-lord?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/6/f6a2f10c-721c-40c7-8fe1-b4877a40fe96.jpg?1592713599
+  normal: https://cards.scryfall.io/normal/front/f/6/f6a2f10c-721c-40c7-8fe1-b4877a40fe96.jpg?1592713599
+  large: https://cards.scryfall.io/large/front/f/6/f6a2f10c-721c-40c7-8fe1-b4877a40fe96.jpg?1592713599
+  png: https://cards.scryfall.io/png/front/f/6/f6a2f10c-721c-40c7-8fe1-b4877a40fe96.png?1592713599
+  art_crop: https://cards.scryfall.io/art_crop/front/f/6/f6a2f10c-721c-40c7-8fe1-b4877a40fe96.jpg?1592713599
+  border_crop: https://cards.scryfall.io/border_crop/front/f/6/f6a2f10c-721c-40c7-8fe1-b4877a40fe96.jpg?1592713599
+mana_cost: "{B}{B}{G}{G}"
+cmc: 4.0
+type_line: Legendary Creature — Zombie Elf
+oracle_text: |-
+  Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.
+  {1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.
+  Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.
+power: '2'
+toughness: '2'
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set: ddj
+set_name: 'Duel Decks: Izzet vs. Golgari'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f6a2f10c-721c-40c7-8fe1-b4877a40fe96/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87e65e36-9483-49fe-b644-2caca092107f&unique=prints
+collector_number: '45'
+digital: false
+rarity: mythic
+watermark: golgari
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: 3115f55d-f683-4062-9ddb-152bd82c7e46
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2091
+penny_rank: 2126
+prices:
+  usd: 
+  usd_foil: '1.98'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.74'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292771
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jarad%2C+Golgari+Lich+Lord&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jarad%2C+Golgari+Lich+Lord&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jarad%2C+Golgari+Lich+Lord
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66307?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jarad%2C+Golgari+Lich+Lord&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46125?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

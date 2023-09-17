@@ -1,0 +1,114 @@
+---
+object: card
+id: 507338d5-dc27-4185-b59e-3c6cf7df8ded
+oracle_id: 326ba371-124c-4949-a048-3a0c8962e567
+multiverse_ids:
+- 292964
+mtgo_id: 46103
+mtgo_foil_id: 46104
+tcgplayer_id: 66343
+cardmarket_id: 258142
+name: Barren Moor
+lang: en
+released_at: '2012-09-07'
+uri: https://api.scryfall.com/cards/507338d5-dc27-4185-b59e-3c6cf7df8ded
+scryfall_uri: https://scryfall.com/card/ddj/78/barren-moor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/0/507338d5-dc27-4185-b59e-3c6cf7df8ded.jpg?1592713845
+  normal: https://cards.scryfall.io/normal/front/5/0/507338d5-dc27-4185-b59e-3c6cf7df8ded.jpg?1592713845
+  large: https://cards.scryfall.io/large/front/5/0/507338d5-dc27-4185-b59e-3c6cf7df8ded.jpg?1592713845
+  png: https://cards.scryfall.io/png/front/5/0/507338d5-dc27-4185-b59e-3c6cf7df8ded.png?1592713845
+  art_crop: https://cards.scryfall.io/art_crop/front/5/0/507338d5-dc27-4185-b59e-3c6cf7df8ded.jpg?1592713845
+  border_crop: https://cards.scryfall.io/border_crop/front/5/0/507338d5-dc27-4185-b59e-3c6cf7df8ded.jpg?1592713845
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Barren Moor enters the battlefield tapped.
+  {T}: Add {B}.
+  Cycling {B} ({B}, Discard this card: Draw a card.)
+colors: []
+color_identity:
+- B
+keywords:
+- Cycling
+produced_mana:
+- B
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set: ddj
+set_name: 'Duel Decks: Izzet vs. Golgari'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/507338d5-dc27-4185-b59e-3c6cf7df8ded/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A326ba371-124c-4949-a048-3a0c8962e567&unique=prints
+collector_number: '78'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: 2e8f6c5d-4d43-4b1e-9442-9106fe3dad7e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 611
+penny_rank: 398
+prices:
+  usd: '0.23'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.54'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292964
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Barren+Moor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Barren+Moor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Barren+Moor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66343?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Barren+Moor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46103?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

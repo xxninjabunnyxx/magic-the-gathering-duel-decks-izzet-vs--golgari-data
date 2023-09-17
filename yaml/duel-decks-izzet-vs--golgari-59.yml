@@ -1,0 +1,116 @@
+---
+object: card
+id: 91eac442-8e37-4aba-abf9-464916c39fff
+oracle_id: aedc3e69-3163-4b8d-97b2-0ad92f28a6dc
+multiverse_ids:
+- 338472
+mtgo_id: 46154
+mtgo_foil_id: 46155
+tcgplayer_id: 66356
+cardmarket_id: 258157
+name: Greater Mossdog
+lang: en
+released_at: '2012-09-07'
+uri: https://api.scryfall.com/cards/91eac442-8e37-4aba-abf9-464916c39fff
+scryfall_uri: https://scryfall.com/card/ddj/59/greater-mossdog?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/1/91eac442-8e37-4aba-abf9-464916c39fff.jpg?1592713698
+  normal: https://cards.scryfall.io/normal/front/9/1/91eac442-8e37-4aba-abf9-464916c39fff.jpg?1592713698
+  large: https://cards.scryfall.io/large/front/9/1/91eac442-8e37-4aba-abf9-464916c39fff.jpg?1592713698
+  png: https://cards.scryfall.io/png/front/9/1/91eac442-8e37-4aba-abf9-464916c39fff.png?1592713698
+  art_crop: https://cards.scryfall.io/art_crop/front/9/1/91eac442-8e37-4aba-abf9-464916c39fff.jpg?1592713698
+  border_crop: https://cards.scryfall.io/border_crop/front/9/1/91eac442-8e37-4aba-abf9-464916c39fff.jpg?1592713698
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Plant Dog
+oracle_text: Dredge 3 (If you would draw a card, you may mill three cards instead.
+  If you do, return this card from your graveyard to your hand.)
+power: '3'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Dredge
+- Mill
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set: ddj
+set_name: 'Duel Decks: Izzet vs. Golgari'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/2dfea68b-b0c4-4f63-ba6c-36c9a6e3030f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/91eac442-8e37-4aba-abf9-464916c39fff/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaedc3e69-3163-4b8d-97b2-0ad92f28a6dc&unique=prints
+collector_number: '59'
+digital: false
+rarity: common
+watermark: golgari
+flavor_text: Man's best fungus.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chippy
+artist_ids:
+- a36f01a0-e51a-48b2-a556-b9b3bc73f969
+illustration_id: a85b985b-fd04-4575-9525-9220c0728605
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 14266
+penny_rank: 7434
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338472
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Greater+Mossdog&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Greater+Mossdog&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Greater+Mossdog
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66356?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Greater+Mossdog&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46154?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
